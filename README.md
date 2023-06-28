@@ -1,2 +1,2 @@
 # Chrome_Extension
- Save Leads Chrome Extension
+ Simple Save Leads Chrome Extension
